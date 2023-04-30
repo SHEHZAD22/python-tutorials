@@ -1,2 +1,2 @@
 # python-tutorials
-learning python from startting
+learning python 
